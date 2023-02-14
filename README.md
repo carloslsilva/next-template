@@ -15,7 +15,7 @@ This repository is a Next.js template built with:
 
 To use this template, first you must clone this repository and then install the necessary dependencies:
 
-```console
+```sh
 git clone git@github.com:carloslsilva/next-template.git
 cd next-template
 npm install
@@ -25,7 +25,7 @@ npm install
 
 To start a local development server, run the following command:
 
-```console
+```sh
 npm run dev
 ```
 
@@ -33,7 +33,7 @@ npm run dev
 
 To build your application for production, run the following command:
 
-```console
+```sh
 npm run build
 npm start
 ```
